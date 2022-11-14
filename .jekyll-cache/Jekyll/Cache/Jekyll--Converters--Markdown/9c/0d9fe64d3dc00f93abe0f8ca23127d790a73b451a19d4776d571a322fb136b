@@ -1,0 +1,41 @@
+I"6<p><img src="https://user-images.githubusercontent.com/39642060/153726700-7151969a-2fb9-4fd2-bcbb-8ce2c876fcd8.png" alt="appCard" /></p>
+
+<h1 id="unmutify">Unmutify</h1>
+<p>Helping mute people to talk</p>
+
+<h2 id="problem-statement">Problem Statement</h2>
+<ul>
+  <li>Many people are unable to talk due to their disabilities &amp; many people are mute inborn</li>
+  <li>People with speech challenges can easily get frustrated when trying to communication with friends &amp; family</li>
+  <li>On other hand, it is difficult to understand the sign language of mute person</li>
+  <li>We can fill this communication gap with the help of technology</li>
+</ul>
+
+<h2 id="introducing-unmutify">Introducing Unmutify</h2>
+<ul>
+  <li>Unmutify helps mute person to communicate easily</li>
+  <li>With Unmutify, mute person can talk by converting text to speech &amp; emojis to speech</li>
+  <li>User can create custom sentences &amp; pronounce them with text-to-speech <a href="https://coindataflow.com/de/aktie/NOK"><img src="cdf.svg" alt="nokia aktienkurs" class="cdf" /></a></li>
+  <li>Emoji-To-Speech helps user to talk quickly with the help of various types of emojis</li>
+  <li>Unmutify has easy to use UI/UX. Anyone can learn to use this app very easily</li>
+</ul>
+
+<h2 id="technology-used">Technology Used</h2>
+<ol>
+  <li>SwiftUI: UI + Functionality</li>
+  <li>AVFoundation: Multimedia Framework by Apple to play AV</li>
+</ol>
+
+<h2 id="future-plans--improvements">Future Plans &amp; Improvements</h2>
+<ul>
+  <li>Our vision is to focus on helping Mute/Disabled people to communicate easily</li>
+  <li>Features
+    <ul>
+      <li>To add support in many languages</li>
+      <li>To add phone call support</li>
+      <li>To add more Emoji’s &amp; improve Emoji-To-Speech Functionality</li>
+      <li>To add all gender voices</li>
+    </ul>
+  </li>
+</ul>
+:ET
